@@ -2,7 +2,7 @@
 
 🚀 Getting Started
 
-Literature mining can take days. I created this script to speed up this process, taking advantage of APIs, parallelisation, and the PubMed digital literature repository. 
+Literature mining can take days. I created this script to speed up this process, taking advantage of APIs (NCBI for core literature, bioRxiv for preprints), parallelisation, and the PubMed digital literature repository. 
 
 **1. Prerequisites**
 
