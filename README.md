@@ -11,7 +11,7 @@ First, ensure you have Python 3.8+ installed. Then, clone the repository and ins
 *A. Clone the repository:*
 
 ```bash
-git clone https://github.com/your-username/publication-miner.git
+git clone https://github.com/loganminhdang/publication-miner.git
 cd publication-miner
 ```
 
