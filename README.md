@@ -1,12 +1,10 @@
 # pubmedminer
 
-🚀 Getting Started
-
 Literature mining can take days. I created this script to speed up this process, taking advantage of APIs (NCBI for core literature, bioRxiv for preprints), parallelisation, and the PubMed digital literature repository. 
 
 **1. Prerequisites**
 
-First, ensure you have Python 3.8+ installed. Then, clone the repository and install the necessary dependencies.
+First, ensure you have Python 3.8 installed (other Python versions may be incompatible). Then, clone the repository and install the necessary dependencies.
 
 *A. Clone the repository:*
 
@@ -46,7 +44,7 @@ PDGFRA
 ```
 
 Semantics Keyword File (semantics.json)
-Create a JSON file that groups your search concepts. Each key is a category, and the value is a list of related keywords and synonyms.
+Create a JSON file that groups your search concepts. Each key is a category, and the value is a list of related keywords and synonyms. 
 
 Example semantics.json for a cardiac study:
 
