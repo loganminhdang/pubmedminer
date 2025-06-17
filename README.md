@@ -14,7 +14,7 @@ cd publication-miner
 ```
 
 *B. Install dependencies:*
-The only external library required is ```bash requests```. You can install it directly.
+The only external library required is requests. You can install it directly.
 
 ```bash
 # It is recommended to use a virtual environment (either Mamba or python)
@@ -31,6 +31,7 @@ pip install -r requirements.txt
 The tool requires two input files: a list of genes and a JSON file defining your search terms.
 
 Gene List File (genes.txt)
+
 Create a simple text file with one gene symbol (or any search term) per line.
 
 Example genes.txt:
