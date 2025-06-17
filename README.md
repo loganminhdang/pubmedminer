@@ -69,6 +69,7 @@ Example semantics.json for a cardiac study:
 }
 ```
 **3. Run the Tool**
+
 Execute the script from your terminal. You must provide the paths to your two input files, a name for your output file, and your email address for polite API access.
 
 *Basic Usage*
