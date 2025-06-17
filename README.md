@@ -14,7 +14,7 @@ cd publication-miner
 ```
 
 *B. Install dependencies:*
-The only external library required is requests. You can install it directly.
+The only external library required is ```bash requests```. You can install it directly.
 
 ```bash
 # It is recommended to use a virtual environment (either Mamba or python)
