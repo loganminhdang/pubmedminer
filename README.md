@@ -2,7 +2,7 @@
 
 🚀 Getting Started
 
-Follow these simple steps to get the Publication Miner up and running on your local machine.
+Literature mining can take days. I created this script to speed up this process, taking advantage of APIs, parallelisation, and the PubMed digital literature repository. 
 
 **1. Prerequisites**
 
